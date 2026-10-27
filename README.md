@@ -17,6 +17,6 @@ Diplômé d'un Master 2 Expertise et Analyse des Données Economique (Mention Tr
 * **Mémoire de Master 2 :** Analyse des déterminants de l'achèvement de la thèse via des modèles de choix qualitatifs (Logit) sous Stata.
 * **Mémoire de Master 1 :** Évaluation stratégique de l'impact du positionnement dans les chaînes de valeur mondiales sur la productivité (TFP) via des modèles économétriques en données de panel sous Stata.
 
-**📫 Me contacter :** [Insère ici ton lien LinkedIn]
+**📫 Me contacter :** https://www.linkedin.com/in/thibault-philibert-b3b4282b6/
 
 

@@ -8,7 +8,7 @@ Diplômé d'un Master 2 Expertise et Analyse des Données Economique (Mention Tr
 * **Économétrie & Modélisation :** Stata, R, Python (Scikit-learn). Modèles de panel, séries temporelles, effets fixes, variables catégorielles.
 * **Bases de données & Data Engineering :** SQL, SQLite, Python (Pandas, Numpy, Web Scraping), paramétrage d'enquêtes (LimeSurvey).
 * **Déploiement & Interfaces :** Création d'environnements Python portables (sans installation, anti-virus friendly) et conception d'interfaces graphiques (CustomTkinter).
-* **Business Intelligence & Dataviz :** Power BI (DAX), conception de dashboards d'aide à la décision.n.
+* **Business Intelligence & Dataviz :** Power BI (DAX), conception de dashboards d'aide à la décision.
 
 **🚀 Mes Projets (Terminés et en cours)**
 * **Projet Lorcana (Python / UI) :** Création d'un web scraper couplé à une interface de graphique (CustomTkinter) pour suivre une collection, avec génération automatisée de rapports PDF (Jinja2).

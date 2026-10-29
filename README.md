@@ -19,6 +19,6 @@ Diplômé d'un Master 2 Expertise et Analyse des Données Economique (Mention Tr
 
 **📫 Me contacter :
 * ** https://www.linkedin.com/in/thibault-philibert-b3b4282b6/
-* **philibert.thibault.pro@gmail.com
+**philibert.thibault.pro@gmail.com
 
 
